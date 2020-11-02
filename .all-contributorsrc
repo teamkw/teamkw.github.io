@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ooketmon",
+      "name": "Irene Lee ",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/49191920?v=4",
+      "profile": "https://github.com/ooketmon",
+      "contributions": [
+        "projectManagement",
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "teamkw.github.io",
+  "projectOwner": "teamkw",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
