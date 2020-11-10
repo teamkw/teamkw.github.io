@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "PangBot-Web-Extension"
+    url: /web-extension/
+  - title: "PangBot"
+    url: /pangbot/
+  - title: "UniBook"
+    url: /unibook/
+  - title: "About Us"
+    url: /about-us/
+  # - title: "Sitemap"
+  #   url: /sitemap/
