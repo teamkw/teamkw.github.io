@@ -10,7 +10,7 @@ Team KW:
 Kim PangPang :
   name        : "Kim PangPang"
   bio         : "Pangpang parapara pangpangpang"
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : "/assets/images/horse.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
