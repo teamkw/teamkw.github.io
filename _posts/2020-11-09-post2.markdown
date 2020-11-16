@@ -2,7 +2,7 @@
 layout: pangbot
 title:  "오오 신기해"
 date:   2020-11-09 22:14:10 +0900
-categories: jekyll update
+categories: pangbot
 ---
-PangBot-Web-Extesion
+팡봇 카테고리 ```테스트용```
 
