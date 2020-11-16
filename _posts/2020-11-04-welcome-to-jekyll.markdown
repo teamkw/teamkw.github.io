@@ -2,7 +2,11 @@
 layout: pangbot
 title:  "TeamKW 홈페이지 인사드려요!"
 date:   2020-11-04 22:14:10 +0900
-categories: jekyll update
+categories: 
+  - web
+tags:
+  - tag1 
+  - tag2
 author: Kim PangPang
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
