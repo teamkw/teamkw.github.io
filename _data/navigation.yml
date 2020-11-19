@@ -6,7 +6,9 @@ main:
     url: /pangbot/
   - title: "UniBook"
     url: /unibook/
-  - title: "About Us"
-    url: /about-us/
+  - title: "About"
+    url: /about/
+  - title: "Member"
+    url: /member/
   # - title: "Sitemap"
   #   url: /sitemap/

@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /about-us/
-title: "Posts by About-Us"
+permalink: /about/
+title: "Posts by About"
 author_profile: true
 ---
