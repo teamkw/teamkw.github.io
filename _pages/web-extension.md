@@ -9,7 +9,7 @@ header:
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+#   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "오직 광운대생을 위한 크롬 확장프로그램"
 
 intro: 
