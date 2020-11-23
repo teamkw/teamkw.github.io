@@ -112,7 +112,7 @@ jekyll과 ruby가 모두 설치되어있어 개발환경이 충족되었다는 �
 
     2.  태그는 자유롭게 추가 가능합니다. 그러나 같은 내용이라면 기존에 있던 태그라면 하나로 통일해주신다면 태그별로 읽으시는 분들이 더 쉽게 읽으실 수 있으실 것 같습니다.😊 
 
-       ex) opensource (1) , Opensource (1) , OpenSource (1)      ===== (X)
+       ex) opensource (1) , Opensource (1) , OpenSource (1)      ===== (X) <br>
               opensource (3)      ================================ (O)
 
 
