@@ -1,0 +1,45 @@
+Team KW:
+  name : "TeamKW"
+  bio : " "
+  avartar : "/assets/images/logo.png"
+  links: 
+    - label : "GitHub"
+     # icon :
+      url :  "https://github.com/teamkw"
+
+Kim PangPang :
+  name        : "Kim PangPang"
+  bio         : "Pangpang parapara pangpangpang"
+  avatar      : "/assets/images/horse.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "@kw.ac.kr"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: " "      
+
+Lee Jiu :
+  name        : "Lee Jiu"
+  bio         : "안녕하세요-! <br>광운대학교 소프트웨어학부 19학번<br>이지우입니다! 😁"
+  avatar      : "/assets/images/author-jiu.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "ooketmon@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/ooketmon"    
+
+# 아래의 양식에 맞게 자신의 정보 추가하면 됨
+# Kim PangPang
+#  name        : "Kim PangPang"
+#   bio         : "Pangpang parapara pangpangpang"
+#   avatar      : "/assets/images/bio-photo.jpg"
+#   links:
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: "@kw.ac.kr"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: " "
