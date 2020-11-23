@@ -5,8 +5,10 @@ main:
   - title: "PangBot"
     url: /pangbot/
   - title: "UniBook"
-    url: /unibook/
-  - title: "About Us"
-    url: /about-us/
+    url: /unibook_p/
+  - title: "Story"
+    url: /story/
   # - title: "Sitemap"
   #   url: /sitemap/
+      # children :
+
