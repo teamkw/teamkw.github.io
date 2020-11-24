@@ -1,4 +1,4 @@
 ---
-title: mainUI 재구성
+title: main UI 재구성
 category: web-extension
 ---
