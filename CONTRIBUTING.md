@@ -68,7 +68,7 @@ jekyll과 ruby가 모두 설치되어있어 개발환경이 충족되었다는 �
   Your-name :
     name        : "Your-name"
     bio         : "Your bio. 마크다운 문법 사용가능"
-    avatar      : "/assets/images/author-yourname.jpg"
+    avatar      : "/assets/images/author/author-yourname.jpg"
     links:
       - label: "Email"
         icon: "fas fa-fw fa-envelope-square"
@@ -80,7 +80,7 @@ jekyll과 ruby가 모두 설치되어있어 개발환경이 충족되었다는 �
 
   위의 코드를 문서의 마지막에 이어 붙여 넣어주시고 수정해주시면 됩니다.  해당 항목들은 자유롭게 필요에 따라 추가하실수도, 삭제하실 수도 있습니다. 
 
-  프로필 사진(`avartar`) 저장시에 `author-뭐뭐뭐` 형식은 꼭 지켜주시길 부탁드립니다.😁 
+  프로필 사진(`avartar`) 저장시에 파일위치(author 디렉토리) 와 `author-뭐뭐뭐` 형식은 꼭 지켜주시길 부탁드립니다.😁 
   
   
 
@@ -112,8 +112,6 @@ jekyll과 ruby가 모두 설치되어있어 개발환경이 충족되었다는 �
 
     2.  태그는 자유롭게 추가 가능합니다. 그러나 같은 내용이라면 기존에 있던 태그라면 하나로 통일해주신다면 태그별로 읽으시는 분들이 더 쉽게 읽으실 수 있으실 것 같습니다.😊 
 
-       ex) opensource (1) , Opensource (1) , OpenSource (1)      ===== (X) <br>
-              opensource (3)      ================================ (O)
-
+       ex) opensource (1) , Opensource (1) , OpenSource(1) ❌ opensource(3) ⭕
 
 
