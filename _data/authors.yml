@@ -19,17 +19,17 @@ Kim PangPang :
       icon: "fab fa-fw fa-twitter-square"
       url: " "      
 
-Lee Jiu :
-  name        : "Lee Jiu"
-  bio         : "안녕하세요-! <br>광운대학교 소프트웨어학부 19학번<br>이지우입니다! 😁"
-  avatar      : "/assets/images/author/author-jiu.jpg"
+Seong Myeong Geun :
+  name        : "Seong Myeong Geun"
+  bio         : "안녕하세요-! <br>광운대학교 소프트웨어학부 19학번<br>성명근입니다!"
+  avatar      : "/assets/images/author/horse.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "ooketmon@gmail.com"
+      url: "mg0454@gnaver.com"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/ooketmon"    
+      url: "https://github.com/Seong-Myeong"    
 
 # 아래의 양식에 맞게 자신의 정보 추가하면 됨
 # Kim PangPang
