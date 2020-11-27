@@ -21,7 +21,7 @@ Kim PangPang :
 
 Lee Jiu :
   name        : "Lee Jiu"
-  bio         : "ì•ˆë…•í•˜ì„¸ìš”-! <br>ê´‘ìš´ëŒ€í•™êµ ì†Œí”„íŠ¸ì›¨ì–´í•™ë¶€ 19í•™ë²ˆ<br>ì´ì§€ìš°ì…ë‹ˆë‹¤! ğŸ˜"
+  bio         : "?•ˆ?…•?•˜?„¸?š”-! <br>ê´‘ìš´????•™êµ? ?†Œ?”„?Š¸?›¨?–´?•™ë¶? 19?•™ë²?<br>?´ì§??š°?…?‹ˆ?‹¤! ?Ÿ˜?"
   avatar      : "/assets/images/author/author-jiu.jpg"
   links:
     - label: "Email"
@@ -31,7 +31,21 @@ Lee Jiu :
       icon: "fab fa-github"
       url: "https://github.com/ooketmon"    
 
-# ì•„ë˜ì˜ ì–‘ì‹ì— ë§ê²Œ ìì‹ ì˜ ì •ë³´ ì¶”ê°€í•˜ë©´ ë¨
+
+Son ChangMin :
+  name        : "Son ChangMin"
+  bio         : "Kwangwoon University System Software Major 19"
+  avatar      : "/assets/images/author/horse.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "@kw.ac.kr"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://github.com/ckdals4600"      
+
+
+# ?•„?˜?˜ ?–‘?‹?— ë§ê²Œ ??‹ ?˜ ? •ë³? ì¶”ê???•˜ë©? ?¨
 # Kim PangPang
 #  name        : "Kim PangPang"
 #   bio         : "Pangpang parapara pangpangpang"
