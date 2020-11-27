@@ -21,7 +21,7 @@ Kim PangPang :
 
 Lee Jiu :
   name        : "Lee Jiu"
-  bio         : "¾È³çÇÏ¼¼¿ä-! <br>±¤¿î´ëÇĞ±³ ¼ÒÇÁÆ®¿ş¾îÇĞºÎ 19ÇĞ¹ø<br>ÀÌÁö¿ìÀÔ´Ï´Ù! ?"
+  bio         : "ì•ˆë…•í•˜ì„¸ìš”-! <br>ê´‘ìš´ëŒ€í•™êµ ì†Œí”„íŠ¸ì›¨ì–´í•™ë¶€ 19í•™ë²ˆ<br>ì´ì§€ìš°ì…ë‹ˆë‹¤!ğŸ˜"
   avatar      : "/assets/images/author/author-jiu.jpg"
   links:
     - label: "Email"
@@ -31,6 +31,7 @@ Lee Jiu :
       icon: "fab fa-github"
       url: "https://github.com/ooketmon"   
 
+Seong Myeongeun :
   name        : "Seong Myeong Geun"
   bio         : "ì•ˆë…•í•˜ì„¸ìš”-! <br>ê´‘ìš´ëŒ€í•™êµ ì†Œí”„íŠ¸ì›¨ì–´í•™ë¶€ 19í•™ë²ˆ<br>ì„±ëª…ê·¼ì…ë‹ˆë‹¤!"
   avatar      : "/assets/images/author/horse.jpg"
@@ -68,7 +69,7 @@ Son ChangMin :
       url: "https://github.com/ckdals4600"      
 
 
-# ?•„?˜?˜ ?–‘?‹?— ë§ê²Œ ??‹ ?˜ ? •ë³? ì¶”ê???•˜ë©? ?¨
+# ?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½ ?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½ ë§ê²Œ ?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½ ?ï¿½ï¿½ï¿½? ì¶”ï¿½???ï¿½ï¿½ï¿½? ?ï¿½ï¿½
 # Kim PangPang
 #  name        : "Kim PangPang"
 #   bio         : "Pangpang parapara pangpangpang"
