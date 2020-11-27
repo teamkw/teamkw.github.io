@@ -7,12 +7,13 @@
   "contributors": [
     {
       "login": "ooketmon",
-      "name": "Irene Lee ",
+      "name": "Jiwoo Lee ",
       "avatar_url": "https://avatars1.githubusercontent.com/u/49191920?v=4",
       "profile": "https://github.com/ooketmon",
       "contributions": [
         "projectManagement",
-        "maintenance"
+        "maintenance",
+        "content"
       ]
     },
     {
@@ -22,6 +23,34 @@
       "profile": "https://github.com/pkeugine",
       "contributions": [
         "review"
+      ]
+    },
+    {
+      "login": "Bangda",
+      "name": "Bangdayeon",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57349321?s=460&v=4",
+      "profile": "https://github.com/Bangdayeon",
+      "contributions": [
+        "content", 
+        "review"
+      ]
+    },
+    {
+      "login": "Jansoon",
+      "name": "ckdals4600",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/57699212?s=460&v=4",
+      "profile": "https://github.com/ckdals4600",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Seong-Myeong",
+      "name": "",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/57748493?s=460&v=4",
+      "profile": "https://github.com/Seong-Myeong",
+      "contributions": [
+        "content"
       ]
     }
   ],
