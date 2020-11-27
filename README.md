@@ -21,8 +21,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/ooketmon"><img src="https://avatars1.githubusercontent.com/u/49191920?v=4" width="100px;" alt=""/><br /><sub><b>Irene Lee </b></sub></a><br /><a href="#projectManagement-ooketmon" title="Project Management">📆</a> <a href="#maintenance-ooketmon" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/ooketmon"><img src="https://avatars1.githubusercontent.com/u/49191920?v=4" width="100px;" alt=""/><br /><sub><b>Jiwoo Lee </b></sub></a><br /><a href="#projectManagement-ooketmon" title="Project Management">📆</a> <a href="#maintenance-ooketmon" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/pkeugine"><img src="https://avatars0.githubusercontent.com/u/48251668?v=4" width="100px;" alt=""/><br /><sub><b>Eugine Park</b></sub></a><br /><a href="https://github.com/teamkw/teamkw.github.io/pulls?q=is%3Apr+reviewed-by%3Apkeugine" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/Bangdayeon"><img src="https://avatars3.githubusercontent.com/u/57349321?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Bangdayeon</b></sub></a><br /><a href="https://github.com/teamkw/teamkw.github.io/commits?author=Bangdayeon" title="Blogposts">📝</a></td>
+    <td align="center"><a href="https://github.com/ckdals4600"><img src="https://avatars1.githubusercontent.com/u/57699212?s=460&v=4" width="100px;" alt=""/><br /><sub><b>ckdals4600</b></sub></a><br /><a href="https://github.com/teamkw/teamkw.github.io/commits?author=ckdals4600" title="Blogposts">📝</a></td>
+    <td align="center"><a href="https://github.com/Seong-Myeong"><img src="https://avatars1.githubusercontent.com/u/57748493?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Seong-Myeong</b></sub></a><br /><a href="https://github.com/teamkw/teamkw.github.io/commits?author=Seong-Myeong" title="Blogposts">📝</a></td>
   </tr>
 </table>
 
