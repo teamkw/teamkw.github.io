@@ -51,8 +51,67 @@ teamkw.github.io를 본인 컴퓨터로 실행해보시고 싶으신 분들은 [
 
 jekyll과 ruby가 모두 설치되어있어 개발환경이 충족되었다는 가정하에 작성하도록 하겠습니다 :)
 
-1. `clone`이나 `fork`를 통해서 프로젝트 저장소를 만들어주세요 
+1. `fork`를 통해서 프로젝트 저장소를 만든 다음 해당 저장소를 `clone` 해주세요.
 2. 터미널을 통해 방금 만든 저장소까지 들어갑니다! (슝슝 📁💨)
 3. ```gem install jekyll``` 을 터미널에 입력해주세요!
 4. 그대로 이어서  ```jekyll serve``` 입력해주세요
 5. 브라우저를 통해 `http://localhost:4000`에 접속하면 된답니다! 🤸‍♂️🤸‍♀️
+
+### ✒ 포스트를 작성하는 방법
+
+본 웹페이지에 포스트를 작성하고 싶으신 분들은 아래의 절차를 따라하시면 됩니다. 
+
+* 작성자 정보 추가
+  `클론한 폴더 >> _data >> authors.yml` 파일로 들어갑니다.
+
+  ```
+  Your-name :
+    name        : "Your-name"
+    bio         : "Your bio. 마크다운 문법 사용가능"
+    avatar      : "/assets/images/author/author-yourname.jpg"
+    links:
+      - label: "Email"
+        icon: "fas fa-fw fa-envelope-square"
+        url: "your@email.address"
+      - label: "GitHub"
+        icon: "fab fa-github"
+        url: "https://github.com/your-github-id"  
+  ```
+
+  위의 코드를 문서의 마지막에 이어 붙여 넣어주시고 수정해주시면 됩니다.  해당 항목들은 자유롭게 필요에 따라 추가하실수도, 삭제하실 수도 있습니다. 
+
+  프로필 사진(`avartar`) 저장시에 파일위치(author 디렉토리) 와 `author-뭐뭐뭐` 형식은 꼭 지켜주시길 부탁드립니다.😁 
+  
+  
+
+* post 작성
+  `클론한 폴더 >> _posts` 에 새 포스트에 해당하는 파일을 생성합니다. 
+
+  - 파일 생성 방법 
+    1. `yyyy-mm-dd-#n.md` 파일을 직접 생성할 수있습니다. 여기서 #n은 현재 디렉토리내에서 가장 마지막에 존재하는 번호의 다음 숫자를 사용합니다.
+    2. 만약 본인의 컴퓨터에서 Jekyll 서버가 실행중이라면 http://localhost:4000/admin 에 접속하여 post를 작성할 수도 있습니다. (파일 자동 생성)
+
+  파일 생성이 되었다면 아래에 해당하는 내용을 포함하시면 됩니다.
+
+  ```markdown
+  ---
+  title: 제목
+  category: story //story로 꼭 지정해주셔야 합니다!! 
+  tag: 
+      - 태그 
+      - 여러개 추가 가능
+  author: 작성자 //원하지 않을시 적지 않아도 됨
+  ---
+  <br> //엔터 없으면 답답해보여요 😥
+  본문 작성!!!
+  ```
+
+  + 유의할 점
+
+    1. `category: story` 꼭 지정해주세요! 
+
+    2.  태그는 자유롭게 추가 가능합니다. 그러나 같은 내용이라면 기존에 있던 태그라면 하나로 통일해주신다면 태그별로 읽으시는 분들이 더 쉽게 읽으실 수 있으실 것 같습니다.😊 
+
+       ex) opensource (1) , Opensource (1) , OpenSource(1) ❌ opensource(3) ⭕
+
+
