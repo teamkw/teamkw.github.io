@@ -31,7 +31,7 @@ Lee Jiu :
       icon: "fab fa-github"
       url: "https://github.com/ooketmon"   
 
-Seong Myeongeun :
+Seong Myeong Geun :
   name        : "Seong Myeong Geun"
   bio         : "안녕하세요-! <br>광운대학교 소프트웨어학부 19학번<br>성명근입니다!"
   avatar      : "/assets/images/author/horse.jpg"
@@ -46,7 +46,7 @@ Seong Myeongeun :
 Bang Dayeon :
   name        : "Bang Dayeon"
   bio         : "안녕하세요! 광운대학교 소프트웨어학부 19학번 방다연입니다!🐣🐣"
-  avatir      : "/assets/images/author/author-bdy.jpg"
+  avatar      : "/assets/images/author/author-bdy.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -64,8 +64,8 @@ Son ChangMin :
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "@kw.ac.kr"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "Github"
+      icon: "fab fa-github"
       url: "https://github.com/ckdals4600"      
 
 
